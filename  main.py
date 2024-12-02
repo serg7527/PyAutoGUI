@@ -2,6 +2,7 @@ import os
 import time
 import pyautogui
 
+
 # Открываем приложение Калькулятор
 if os.name == 'nt':  # Windows
     os.system('start calc')
